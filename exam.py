@@ -1,3 +1,3 @@
 def sub(a,b):
 return a-b
-print(sub(20,10))
+print(sub(40,20))
